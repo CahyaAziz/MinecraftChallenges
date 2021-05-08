@@ -1,0 +1,9 @@
+name: CreeperOP
+version: ${project.version}
+main: me.cahya.creeperop.CreeperOP
+api-version: 1.16
+authors: [ Cahya ]
+description: Minecraft but every time a creeper explode, blocks will turn into ore
+commands:
+  creeperOP:
+    description: Start the CreeperOP plugin
