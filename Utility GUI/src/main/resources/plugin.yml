@@ -1,0 +1,9 @@
+name: Utility
+version: ${project.version}
+main: me.cahya.utility.Utility
+api-version: 1.16
+authors: [ Cahya ]
+description: Opens a GUI for QOL
+commands:
+  utils:
+    description: Opens the utils GUI
