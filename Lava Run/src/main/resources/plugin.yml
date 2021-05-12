@@ -1,0 +1,9 @@
+name: LavaRun
+version: ${project.version}
+main: me.cahya.lavarun.LavaRun
+api-version: 1.16
+authors: [ Cahya ]
+description: Minecraft but lava is chasing you
+commands:
+  lava:
+    description: Start the plugin.
