@@ -1,9 +1,0 @@
-name: ChunkPots
-version: ${project.version}
-main: me.cahya.chunkpots.ChunkPots
-api-version: 1.16
-authors: [ Cahya ]
-description: Minecraft but every chunk gives you random potion effects
-commands:
-  cp:
-    description: start the Chunk Pots plugin.
