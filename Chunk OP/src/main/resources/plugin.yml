@@ -1,9 +1,0 @@
-name: ChunkOP
-version: ${project.version}
-main: me.cahya.chunkop.ChunkOP
-api-version: 1.16
-authors: [ Cahya ]
-description: Minecraft but you get OP items every time you passed a chunk border
-commands:
-  chunk:
-    description: Start/stop Chunk Random plugin
