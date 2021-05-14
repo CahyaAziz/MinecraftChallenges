@@ -1,9 +1,0 @@
-name: DamageDivide
-version: ${project.version}
-main: me.cahya.damagedivide.DamageDivide
-api-version: 1.16
-authors: [ Cahya ]
-description: Minecraft, But Your Health Divides Every Time You Take Damage
-commands:
-  half:
-    description: Start the Plugin
