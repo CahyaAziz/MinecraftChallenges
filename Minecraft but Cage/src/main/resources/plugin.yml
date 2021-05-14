@@ -1,9 +1,0 @@
-name: CageChallenge
-version: ${project.version}
-main: me.cahya.cagechallenge.CageChallenge
-api-version: 1.16
-authors: [ Cahya ]
-description: Minecraft but every 5 minutes you get trapped in a cage for 1 minute
-commands:
-  cage:
-    description: Cage
