@@ -1,0 +1,9 @@
+name: AllInOne
+version: ${project.version}
+main: me.cahya.allinone.AllInOne
+api-version: 1.16
+authors: [ Cahya ]
+description: Minecraft, but it's all the challenges that I've coded
+commands:
+  challenges:
+    description: Opens the challenge GUI
