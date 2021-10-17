@@ -1,0 +1,9 @@
+name: DeathShuffle
+version: 1.0-SNAPSHOT
+main: me.cahya.deathshuffle.DeathShuffle
+api-version: 1.16
+authors: [ Cahya ]
+description: Death Shuffle by Dream
+commands:
+  deathshuffle:
+    description: Starts the challenge
